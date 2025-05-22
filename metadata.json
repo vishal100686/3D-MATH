@@ -1,0 +1,5 @@
+{
+  "name": "3D Point Visualizer & Distance Calculator",
+  "description": "An interactive web application to create, visualize, and manage 3D points, and calculate Euclidean distances between them. Uses React, Three.js (via @react-three/fiber), and Tailwind CSS.",
+  "requestFramePermissions": []
+}
